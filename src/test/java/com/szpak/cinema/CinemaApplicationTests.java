@@ -1,4 +1,4 @@
-package com.example.cinema;
+package com.szpak.cinema;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
